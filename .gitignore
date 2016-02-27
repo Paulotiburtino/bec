@@ -1,3 +1,9 @@
+#Exclusão do main executavel
+main
+
+# Exclusão do .DS_Store
+.DS_Store
+
 # Object files
 *.o
 *.ko
